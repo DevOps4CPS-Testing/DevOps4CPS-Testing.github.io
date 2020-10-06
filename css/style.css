@@ -765,7 +765,7 @@ button:focus,
 	}
 
 .intro { 
-	  background-color: #00003e;
+	  background-color: #143e00;
 	  color: #fff; 
 	  display: inline;
 	  padding: 0.5rem;
@@ -778,6 +778,6 @@ button:focus,
 	.underline-blue {
 		
 	border-bottom: 2px solid;
-	  border-bottom-color: #00003e;
+	  border-bottom-color: #143e00;
 	}
 	
