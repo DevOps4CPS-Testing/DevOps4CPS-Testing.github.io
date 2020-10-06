@@ -757,7 +757,8 @@ button:focus,
     }
 
 	.overlay {
-
+	 background-color: #143e00;
+	 display: inline;
 	 line-height: 1.5em;
 	 text-shadow: 2px 2px 2px #000;
 	 text-align: center;
